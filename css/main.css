@@ -1,11 +1,16 @@
-.sidebar {
+body {
+  background-color: black;
+  color: white;
+}
+
+sidebar {
   width: 50%;
 }
-.sidebar-body {
+sidebar-body {
   width: 50%;
   align: right;
 }
 
-.content {
+content {
   width: 50%;
 }
