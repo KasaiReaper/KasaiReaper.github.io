@@ -3,14 +3,18 @@ body {
   color: white;
 }
 
-sidebar {
-  width: 50%;
+.page {
+  display: flex;
 }
-sidebar-body {
-  width: 50%;
+
+.sidebar {
+  flex: 50%;
+}
+.sidebar-body {
+  flex: 50%;
   align: right;
 }
 
-content {
-  width: 50%;
+.content {
+  flex: 50%;
 }
