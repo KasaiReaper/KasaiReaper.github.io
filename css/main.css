@@ -3,18 +3,18 @@ body {
   color: white;
 }
 
-.page {
+#page {
   display: flex;
 }
 
-.sidebar {
+#sidebar {
   flex: 50%;
 }
-.sidebar-body {
+#sidebar-body {
   flex: 50%;
   align: right;
 }
 
-.content {
+#content {
   flex: 50%;
 }
