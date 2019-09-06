@@ -1,0 +1,11 @@
+.sidebar {
+  width: 50%;
+}
+.sidebar-body {
+  width: 50%;
+  align: right;
+}
+
+.content {
+  width: 50%;
+}
